@@ -1,0 +1,18 @@
+This project aims to analyze and visualize key financial metrics of two of the most influential technology companies in the world: Apple Inc. and Microsoft Corporation. By examining metrics such as Total Net Sales, Total Operating Expenses, Net Income, Total Assets, and Total Liabilities, we gain valuable insights into the financial health and performance of these industry leaders.
+
+Objectives
+The primary objectives of this project are:
+
+Comparison of Financial Performance: To provide a clear visual comparison of the financial metrics of Apple and Microsoft, showcasing their strengths and weaknesses.
+Trend Visualization: To use graphical representations to highlight the financial trends of each company, allowing for an easy understanding of their financial dynamics.
+Educational Insight: To create a resource that aids in the understanding of financial data analysis, serving as an example for students and professionals interested in finance and data visualization.
+Data Source
+The financial data used in this project has been sourced from the latest publicly available reports and filings from both companies. It includes key performance indicators (KPIs) that are essential for evaluating a company’s operational effectiveness and overall financial stability.
+
+Tools and Technologies
+This project is built using the following tools and technologies:
+
+Python: For data manipulation and analysis.
+Pandas: For data handling and processing.
+Matplotlib: For data visualization and plotting financial trends.
+Jupyter Notebook: For an interactive coding environment that supports data analysis and visualization.
